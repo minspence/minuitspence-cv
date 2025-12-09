@@ -81,6 +81,6 @@ Creating a welcoming and home feeling to each customer experience
 
 ## Contact
 
-- Web: <https://midnight-code.tech>
+- Web: [midnight-code.tech](https://midnight-code.tech)
 - LinkedIn: [minuitspence](https://linkedin.com/in/minuitspence)
 - GitHub: [minspence](https://github.com/minspence)
