@@ -12,7 +12,7 @@ Full Stack Web developer (Freelance/Contractor) based in North Carolina.
 
 - Next.js, TypeScript, Tailwind, Webflow
 - Sanity, Supabase, Docker
-- Motion.io, Notion, Figma
+- GitHub, Motion.io, Notion, Figma
 
 ## Work history
 
